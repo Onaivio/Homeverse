@@ -3,29 +3,29 @@ import React from "react";
 const Service = () => {
   return (
     <>
-      <section class="service" id="service">
-        <div class="container">
-          <p class="section-subtitle">Our Services</p>
+      <section className="service" id="service">
+        <div className="container">
+          <p className="section-subtitle">Our Services</p>
 
-          <h2 class="h2 section-title">Our Main Focus</h2>
+          <h2 className="h2 section-title">Our Main Focus</h2>
 
-          <ul class="service-list">
+          <ul className="service-list">
             <li>
-              <div class="service-card">
-                <div class="card-icon">
+              <div className="service-card">
+                <div className="card-icon">
                   <img src="./service-1.png" alt="Service icon" />
                 </div>
 
-                <h3 class="h3 card-title">
+                <h3 className="h3 card-title">
                   <a href="#">Buy a home</a>
                 </h3>
 
-                <p class="card-text">
+                <p className="card-text">
                   over 1 million+ homes for sale available on the website, we
                   can match you with a house you will want to call home.
                 </p>
 
-                <a href="#" class="card-link">
+                <a href="#" className="card-link">
                   <span>Find A Home</span>
 
                   <ion-icon name="arrow-forward-outline"></ion-icon>
@@ -34,21 +34,21 @@ const Service = () => {
             </li>
 
             <li>
-              <div class="service-card">
-                <div class="card-icon">
+              <div className="service-card">
+                <div className="card-icon">
                   <img src="./service-2.png" alt="Service icon" />
                 </div>
 
-                <h3 class="h3 card-title">
+                <h3 className="h3 card-title">
                   <a href="#">Rent a home</a>
                 </h3>
 
-                <p class="card-text">
+                <p className="card-text">
                   over 1 million+ homes for sale available on the website, we
                   can match you with a house you will want to call home.
                 </p>
 
-                <a href="#" class="card-link">
+                <a href="#" className="card-link">
                   <span>Find A Home</span>
 
                   <ion-icon name="arrow-forward-outline"></ion-icon>
@@ -57,21 +57,21 @@ const Service = () => {
             </li>
 
             <li>
-              <div class="service-card">
-                <div class="card-icon">
+              <div className="service-card">
+                <div className="card-icon">
                   <img src="./service-3.png" alt="Service icon" />
                 </div>
 
-                <h3 class="h3 card-title">
+                <h3 className="h3 card-title">
                   <a href="#">Sell a home</a>
                 </h3>
 
-                <p class="card-text">
+                <p className="card-text">
                   over 1 million+ homes for sale available on the website, we
                   can match you with a house you will want to call home.
                 </p>
 
-                <a href="#" class="card-link">
+                <a href="#" className="card-link">
                   <span>Find A Home</span>
 
                   <ion-icon name="arrow-forward-outline"></ion-icon>
