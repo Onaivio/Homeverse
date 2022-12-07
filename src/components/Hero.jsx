@@ -27,7 +27,6 @@ const Hero = () => {
           <figure className="hero-banner">
             <img src="./hero-banner.png" alt="Modern house model" className="w-100" />
           </figure>
-
         </div>
       </section>
     </div>
