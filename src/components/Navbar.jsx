@@ -69,7 +69,7 @@ const Navbar = () => {
   <div class="container">
 
     <a href="#" class="logo">
-      <img src="./assets/images/logo.png" alt="Homeverse logo" />
+      <img src="./logo.png" alt="Homeverse logo" />
     </a>
 
     <nav class="navbar" data-navbar>
@@ -77,7 +77,7 @@ const Navbar = () => {
       <div class="navbar-top">
 
         <a href="#" class="logo">
-          <img src="./assets/images/logo.png" alt="Homeverse logo" />
+          <img src="./logo.png" alt="Homeverse logo" />
         </a>
 
         <button class="nav-close-btn" data-nav-close-btn aria-label="Close Menu">
