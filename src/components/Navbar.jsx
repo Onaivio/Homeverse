@@ -34,20 +34,20 @@ const Navbar = () => {
       <ul className="header-top-social-list">
 
         <li>
-          <a href="#" className="header-top-social-link">
+          <a href="https://www.facebook.com/profile.php?id=100071660391192" className="header-top-social-link">
             <ion-icon name="logo-facebook"></ion-icon>
           </a>
         </li>
 
         <li>
-          <a href="#" className="header-top-social-link">
+          <a href="https://twitter.com/OkomayinOnaivi" className="header-top-social-link">
             <ion-icon name="logo-twitter"></ion-icon>
           </a>
         </li>
 
         <li>
-          <a href="#" className="header-top-social-link">
-            <ion-icon name="logo-instagram"></ion-icon>
+          <a href="https://github.com/onaivio" className="header-top-social-link">
+            <ion-icon name="logo-github"></ion-icon>
           </a>
         </li>
 
