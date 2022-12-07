@@ -3,17 +3,17 @@ import React from 'react'
 const Navbar = () => {
   return (
     <>
-      <header class="header" data-header>
+      <header className="header" data-header>
 
-<div class="overlay" data-overlay></div>
+<div className="overlay" data-overlay></div>
 
-<div class="header-top">
-  <div class="container">
+<div className="header-top">
+  <div className="container">
 
-    <ul class="header-top-list">
+    <ul className="header-top-list">
 
       <li>
-        <a href="mailto:info@homeverse.com" class="header-top-link">
+        <a href="mailto:info@homeverse.com" className="header-top-link">
           <ion-icon name="mail-outline"></ion-icon>
 
           <span>onaivio220@gmail.com</span>
@@ -21,7 +21,7 @@ const Navbar = () => {
       </li>
 
       <li>
-        <a href="#" class="header-top-link">
+        <a href="#" className="header-top-link">
           <ion-icon name="location-outline"></ion-icon>
 
           <address>15/A, Nest Tower, Kano City</address>
@@ -30,87 +30,87 @@ const Navbar = () => {
 
     </ul>
 
-    <div class="wrapper">
-      <ul class="header-top-social-list">
+    <div className="wrapper">
+      <ul className="header-top-social-list">
 
         <li>
-          <a href="#" class="header-top-social-link">
+          <a href="#" className="header-top-social-link">
             <ion-icon name="logo-facebook"></ion-icon>
           </a>
         </li>
 
         <li>
-          <a href="#" class="header-top-social-link">
+          <a href="#" className="header-top-social-link">
             <ion-icon name="logo-twitter"></ion-icon>
           </a>
         </li>
 
         <li>
-          <a href="#" class="header-top-social-link">
+          <a href="#" className="header-top-social-link">
             <ion-icon name="logo-instagram"></ion-icon>
           </a>
         </li>
 
         <li>
-          <a href="#" class="header-top-social-link">
+          <a href="#" className="header-top-social-link">
             <ion-icon name="logo-pinterest"></ion-icon>
           </a>
         </li>
 
       </ul>
 
-      <button class="header-top-btn">Add Listing</button>
+      <button className="header-top-btn">Add Listing</button>
     </div>
 
   </div>
 </div>
 
-<div class="header-bottom">
-  <div class="container">
+<div className="header-bottom">
+  <div className="container">
 
-    <a href="#" class="logo">
+    <a href="#" className="logo">
       <img src="./logo.png" alt="Homeverse logo" />
     </a>
 
-    <nav class="navbar" data-navbar>
+    <nav className="navbar" data-navbar>
 
-      <div class="navbar-top">
+      <div className="navbar-top">
 
-        <a href="#" class="logo">
+        <a href="#" className="logo">
           <img src="./logo.png" alt="Homeverse logo" />
         </a>
 
-        <button class="nav-close-btn" data-nav-close-btn aria-label="Close Menu">
+        <button className="nav-close-btn" data-nav-close-btn aria-label="Close Menu">
           <ion-icon name="close-outline"></ion-icon>
         </button>
 
       </div>
 
-      <div class="navbar-bottom">
-        <ul class="navbar-list">
+      <div className="navbar-bottom">
+        <ul className="navbar-list">
 
           <li>
-            <a href="#home" class="navbar-link" data-nav-link>Home</a>
+            <a href="#home" className="navbar-link" data-nav-link>Home</a>
           </li>
 
           <li>
-            <a href="#about" class="navbar-link" data-nav-link>About</a>
+            <a href="#about" className="navbar-link" data-nav-link>About</a>
           </li>
 
           <li>
-            <a href="#service" class="navbar-link" data-nav-link>Service</a>
+            <a href="#service" className="navbar-link" data-nav-link>Service</a>
           </li>
 
           <li>
-            <a href="#property" class="navbar-link" data-nav-link>Property</a>
+            <a href="#property" className="navbar-link" data-nav-link>Property</a>
           </li>
 
           <li>
-            <a href="#blog" class="navbar-link" data-nav-link>Blog</a>
+            <a href="#blog" className="navbar-link" data-nav-link>Blog</a>
           </li>
 
           <li>
-            <a href="#contact" class="navbar-link" data-nav-link>Contact</a>
+            <a href="#contact" className="navbar-link" data-nav-link>Contact</a>
           </li>
 
         </ul>
@@ -118,27 +118,27 @@ const Navbar = () => {
 
     </nav>
 
-    <div class="header-bottom-actions">
+    <div className="header-bottom-actions">
 
-      <button class="header-bottom-actions-btn" aria-label="Search">
+      <button className="header-bottom-actions-btn" aria-label="Search">
         <ion-icon name="search-outline"></ion-icon>
 
         <span>Search</span>
       </button>
 
-      <button class="header-bottom-actions-btn" aria-label="Profile">
+      <button className="header-bottom-actions-btn" aria-label="Profile">
         <ion-icon name="person-outline"></ion-icon>
 
         <span>Profile</span>
       </button>
 
-      <button class="header-bottom-actions-btn" aria-label="Cart">
+      <button className="header-bottom-actions-btn" aria-label="Cart">
         <ion-icon name="cart-outline"></ion-icon>
 
         <span>Cart</span>
       </button>
 
-      <button class="header-bottom-actions-btn" data-nav-open-btn aria-label="Open Menu">
+      <button className="header-bottom-actions-btn" data-nav-open-btn aria-label="Open Menu">
         <ion-icon name="menu-outline"></ion-icon>
 
         <span>Menu</span>
