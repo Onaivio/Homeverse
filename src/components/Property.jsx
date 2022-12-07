@@ -1,30 +1,29 @@
-import React from 'react'
+import React from "react";
 
 const Property = () => {
   return (
     <>
-     <section class="property" id="property">
+      <section class="property" id="property">
         <div class="container">
-
           <p class="section-subtitle">Properties</p>
 
           <h2 class="h2 section-title">Featured Listings</h2>
 
           <ul class="property-list has-scrollbar">
-
             <li>
               <div class="property-card">
-
                 <figure class="card-banner">
-
                   <a href="#">
-                    <img src="./property-1.jpg" alt="New Apartment Nice View" class="w-100" />
+                    <img
+                      src="./property-1.jpg"
+                      alt="New Apartment Nice View"
+                      class="w-100"
+                    />
                   </a>
 
                   <div class="card-badge green">For Rent</div>
 
                   <div class="banner-actions">
-
                     <button class="banner-actions-btn">
                       <ion-icon name="location"></ion-icon>
 
@@ -42,13 +41,10 @@ const Property = () => {
 
                       <span>2</span>
                     </button>
-
                   </div>
-
                 </figure>
 
                 <div class="card-content">
-
                   <div class="card-price">
                     <strong>$34,900</strong>/Month
                   </div>
@@ -58,11 +54,11 @@ const Property = () => {
                   </h3>
 
                   <p class="card-text">
-                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
+                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly
+                    Renovated With New Wood
                   </p>
 
                   <ul class="card-list">
-
                     <li class="card-item">
                       <strong>3</strong>
 
@@ -86,17 +82,17 @@ const Property = () => {
 
                       <span>Square Ft</span>
                     </li>
-
                   </ul>
-
                 </div>
 
                 <div class="card-footer">
-
                   <div class="card-author">
-
                     <figure class="author-avatar">
-                      <img src="./author.jpg" alt="William Seklo" class="w-100" />
+                      <img
+                        src="./author.jpg"
+                        alt="William Seklo"
+                        class="w-100"
+                      />
                     </figure>
 
                     <div>
@@ -106,11 +102,9 @@ const Property = () => {
 
                       <p class="author-title">Estate Agents</p>
                     </div>
-
                   </div>
 
                   <div class="card-footer-actions">
-
                     <button class="card-footer-actions-btn">
                       <ion-icon name="resize-outline"></ion-icon>
                     </button>
@@ -122,27 +116,25 @@ const Property = () => {
                     <button class="card-footer-actions-btn">
                       <ion-icon name="add-circle-outline"></ion-icon>
                     </button>
-
                   </div>
-
                 </div>
-
               </div>
             </li>
 
             <li>
               <div class="property-card">
-
                 <figure class="card-banner">
-
                   <a href="#">
-                    <img src="./property-2.jpg" alt="Modern Apartments" class="w-100" />
+                    <img
+                      src="./property-2.jpg"
+                      alt="Modern Apartments"
+                      class="w-100"
+                    />
                   </a>
 
                   <div class="card-badge orange">For Sales</div>
 
                   <div class="banner-actions">
-
                     <button class="banner-actions-btn">
                       <ion-icon name="location"></ion-icon>
 
@@ -160,13 +152,10 @@ const Property = () => {
 
                       <span>2</span>
                     </button>
-
                   </div>
-
                 </figure>
 
                 <div class="card-content">
-
                   <div class="card-price">
                     <strong>$34,900</strong>/Month
                   </div>
@@ -176,11 +165,11 @@ const Property = () => {
                   </h3>
 
                   <p class="card-text">
-                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
+                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly
+                    Renovated With New Wood
                   </p>
 
                   <ul class="card-list">
-
                     <li class="card-item">
                       <strong>3</strong>
 
@@ -204,17 +193,17 @@ const Property = () => {
 
                       <span>Square Ft</span>
                     </li>
-
                   </ul>
-
                 </div>
 
                 <div class="card-footer">
-
                   <div class="card-author">
-
                     <figure class="author-avatar">
-                      <img src="./author.jpg" alt="William Seklo" class="w-100" />
+                      <img
+                        src="./author.jpg"
+                        alt="William Seklo"
+                        class="w-100"
+                      />
                     </figure>
 
                     <div>
@@ -224,11 +213,9 @@ const Property = () => {
 
                       <p class="author-title">Estate Agents</p>
                     </div>
-
                   </div>
 
                   <div class="card-footer-actions">
-
                     <button class="card-footer-actions-btn">
                       <ion-icon name="resize-outline"></ion-icon>
                     </button>
@@ -240,27 +227,25 @@ const Property = () => {
                     <button class="card-footer-actions-btn">
                       <ion-icon name="add-circle-outline"></ion-icon>
                     </button>
-
                   </div>
-
                 </div>
-
               </div>
             </li>
 
             <li>
               <div class="property-card">
-
                 <figure class="card-banner">
-
                   <a href="#">
-                    <img src="./property-3.jpg" alt="Comfortable Apartment" class="w-100" />
+                    <img
+                      src="./property-3.jpg"
+                      alt="Comfortable Apartment"
+                      class="w-100"
+                    />
                   </a>
 
                   <div class="card-badge green">For Rent</div>
 
                   <div class="banner-actions">
-
                     <button class="banner-actions-btn">
                       <ion-icon name="location"></ion-icon>
 
@@ -278,13 +263,10 @@ const Property = () => {
 
                       <span>2</span>
                     </button>
-
                   </div>
-
                 </figure>
 
                 <div class="card-content">
-
                   <div class="card-price">
                     <strong>$34,900</strong>/Month
                   </div>
@@ -294,11 +276,11 @@ const Property = () => {
                   </h3>
 
                   <p class="card-text">
-                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
+                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly
+                    Renovated With New Wood
                   </p>
 
                   <ul class="card-list">
-
                     <li class="card-item">
                       <strong>3</strong>
 
@@ -322,17 +304,17 @@ const Property = () => {
 
                       <span>Square Ft</span>
                     </li>
-
                   </ul>
-
                 </div>
 
                 <div class="card-footer">
-
                   <div class="card-author">
-
                     <figure class="author-avatar">
-                      <img src="./author.jpg" alt="William Seklo" class="w-100" />
+                      <img
+                        src="./author.jpg"
+                        alt="William Seklo"
+                        class="w-100"
+                      />
                     </figure>
 
                     <div>
@@ -342,11 +324,9 @@ const Property = () => {
 
                       <p class="author-title">Estate Agents</p>
                     </div>
-
                   </div>
 
                   <div class="card-footer-actions">
-
                     <button class="card-footer-actions-btn">
                       <ion-icon name="resize-outline"></ion-icon>
                     </button>
@@ -358,27 +338,25 @@ const Property = () => {
                     <button class="card-footer-actions-btn">
                       <ion-icon name="add-circle-outline"></ion-icon>
                     </button>
-
                   </div>
-
                 </div>
-
               </div>
             </li>
 
             <li>
               <div class="property-card">
-
                 <figure class="card-banner">
-
                   <a href="#">
-                    <img src="./property-4.png" alt="Luxury villa in Rego Park" class="w-100" />
+                    <img
+                      src="./property-4.png"
+                      alt="Luxury villa in Rego Park"
+                      class="w-100"
+                    />
                   </a>
 
                   <div class="card-badge green">For Rent</div>
 
                   <div class="banner-actions">
-
                     <button class="banner-actions-btn">
                       <ion-icon name="location"></ion-icon>
 
@@ -396,13 +374,10 @@ const Property = () => {
 
                       <span>2</span>
                     </button>
-
                   </div>
-
                 </figure>
 
                 <div class="card-content">
-
                   <div class="card-price">
                     <strong>$34,900</strong>/Month
                   </div>
@@ -412,11 +387,11 @@ const Property = () => {
                   </h3>
 
                   <p class="card-text">
-                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
+                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly
+                    Renovated With New Wood
                   </p>
 
                   <ul class="card-list">
-
                     <li class="card-item">
                       <strong>3</strong>
 
@@ -440,17 +415,17 @@ const Property = () => {
 
                       <span>Square Ft</span>
                     </li>
-
                   </ul>
-
                 </div>
 
                 <div class="card-footer">
-
                   <div class="card-author">
-
                     <figure class="author-avatar">
-                      <img src="./author.jpg" alt="William Seklo" class="w-100" />
+                      <img
+                        src="./author.jpg"
+                        alt="William Seklo"
+                        class="w-100"
+                      />
                     </figure>
 
                     <div>
@@ -460,11 +435,9 @@ const Property = () => {
 
                       <p class="author-title">Estate Agents</p>
                     </div>
-
                   </div>
 
                   <div class="card-footer-actions">
-
                     <button class="card-footer-actions-btn">
                       <ion-icon name="resize-outline"></ion-icon>
                     </button>
@@ -476,20 +449,15 @@ const Property = () => {
                     <button class="card-footer-actions-btn">
                       <ion-icon name="add-circle-outline"></ion-icon>
                     </button>
-
                   </div>
-
                 </div>
-
               </div>
             </li>
-
           </ul>
-
         </div>
       </section>
     </>
-  )
-}
+  );
+};
 
-export default Property
+export default Property;
