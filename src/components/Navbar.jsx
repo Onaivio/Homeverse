@@ -1,13 +1,14 @@
 import React from "react";
 
 const Navbar = () => {
-    const header = document.querySelector("[data-header]");
+  const header = document.querySelector("[data-header]");
 
-    window.addEventListener("scroll", function () {
-    window.scrollY >= 400 ? header.classList.add("active")
-        : header.classList.remove("active");
-    }); 
-    
+  window.addEventListener("scroll", function () {
+    window.scrollY >= 400
+      ? header.classList.add("active")
+      : header.classList.remove("active");
+  });
+
   return (
     <>
       <header className="header" data-header>
