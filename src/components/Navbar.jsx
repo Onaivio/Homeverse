@@ -17,7 +17,7 @@ const Navbar = () => {
           <div className="container">
             <ul className="header-top-list">
               <li>
-                <a href="mailto:info@homeverse.com" className="header-top-link">
+                <a href="mailto:onaivio220@gmail.com" className="header-top-link">
                   <ion-icon name="mail-outline"></ion-icon>
 
                   <span>onaivio220@gmail.com</span>
@@ -25,7 +25,7 @@ const Navbar = () => {
               </li>
 
               <li>
-                <a href="#" className="header-top-link">
+                <a href="onaivio220@gmail.com" className="header-top-link">
                   <ion-icon name="location-outline"></ion-icon>
 
                   <address>15/A, Nest Tower, Kano City</address>
