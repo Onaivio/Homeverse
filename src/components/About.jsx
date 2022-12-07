@@ -7,9 +7,9 @@ const About = () => {
         <div className="container">
 
           <figure className="about-banner">
-            <img src="./assets/images/about-banner-1.png" alt="House interior" />
+            <img src="./about-banner-1.png" alt="House interior" />
 
-            <img src="./assets/images/about-banner-2.jpg" alt="House interior" className="abs-img" />
+            <img src="./about-banner-2.jpg" alt="House interior" className="abs-img" />
           </figure>
 
           <div className="about-content">
