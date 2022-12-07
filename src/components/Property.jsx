@@ -18,7 +18,7 @@ const Property = () => {
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="./assets/images/property-1.jpg" alt="New Apartment Nice View" class="w-100">
+                    <img src="./assets/images/property-1.jpg" alt="New Apartment Nice View" class="w-100" />
                   </a>
 
                   <div class="card-badge green">For Rent</div>
@@ -96,7 +96,7 @@ const Property = () => {
                   <div class="card-author">
 
                     <figure class="author-avatar">
-                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100">
+                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100" />
                     </figure>
 
                     <div>
@@ -136,7 +136,7 @@ const Property = () => {
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="./assets/images/property-2.jpg" alt="Modern Apartments" class="w-100">
+                    <img src="./assets/images/property-2.jpg" alt="Modern Apartments" class="w-100" />
                   </a>
 
                   <div class="card-badge orange">For Sales</div>
@@ -214,7 +214,7 @@ const Property = () => {
                   <div class="card-author">
 
                     <figure class="author-avatar">
-                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100">
+                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100" />
                     </figure>
 
                     <div>
@@ -254,7 +254,7 @@ const Property = () => {
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="./assets/images/property-3.jpg" alt="Comfortable Apartment" class="w-100">
+                    <img src="./assets/images/property-3.jpg" alt="Comfortable Apartment" class="w-100" />
                   </a>
 
                   <div class="card-badge green">For Rent</div>
@@ -332,7 +332,7 @@ const Property = () => {
                   <div class="card-author">
 
                     <figure class="author-avatar">
-                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100">
+                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100" />
                     </figure>
 
                     <div>
@@ -372,7 +372,7 @@ const Property = () => {
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="./assets/images/property-4.png" alt="Luxury villa in Rego Park" class="w-100">
+                    <img src="./assets/images/property-4.png" alt="Luxury villa in Rego Park" class="w-100" />
                   </a>
 
                   <div class="card-badge green">For Rent</div>
@@ -450,7 +450,7 @@ const Property = () => {
                   <div class="card-author">
 
                     <figure class="author-avatar">
-                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100">
+                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100" />
                     </figure>
 
                     <div>
