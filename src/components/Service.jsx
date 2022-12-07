@@ -16,7 +16,7 @@ const Service = () => {
               <div class="service-card">
 
                 <div class="card-icon">
-                  <img src="./assets/images/service-1.png" alt="Service icon" />
+                  <img src="./service-1.png" alt="Service icon" />
                 </div>
 
                 <h3 class="h3 card-title">
@@ -41,7 +41,7 @@ const Service = () => {
               <div class="service-card">
 
                 <div class="card-icon">
-                  <img src="./assets/images/service-2.png" alt="Service icon" />
+                  <img src="./service-2.png" alt="Service icon" />
                 </div>
 
                 <h3 class="h3 card-title">
@@ -66,7 +66,7 @@ const Service = () => {
               <div class="service-card">
 
                 <div class="card-icon">
-                  <img src="./assets/images/service-3.png" alt="Service icon" />
+                  <img src="./service-3.png" alt="Service icon" />
                 </div>
 
                 <h3 class="h3 card-title">
