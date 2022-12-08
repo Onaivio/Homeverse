@@ -16,7 +16,7 @@ const Blog = () => {
               <div class="blog-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/blog-1.png" alt="The Most Inspiring Interior Design Of 2021" class="w-100">
+                  <img src="./assets/images/blog-1.png" alt="The Most Inspiring Interior Design Of 2021" class="w-100" />
                 </figure>
 
                 <div class="blog-content">
@@ -68,7 +68,7 @@ const Blog = () => {
               <div class="blog-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/blog-2.jpg" alt="Recent Commercial Real Estate Transactions" class="w-100">
+                  <img src="./assets/images/blog-2.jpg" alt="Recent Commercial Real Estate Transactions" class="w-100" />
                 </figure>
 
                 <div class="blog-content">
@@ -121,7 +121,7 @@ const Blog = () => {
 
                 <figure class="card-banner">
                   <img src="./assets/images/blog-3.jpg" alt="Renovating a Living Room? Experts Share Their Secrets"
-                    class="w-100">
+                    class="w-100" />
                 </figure>
 
                 <div class="blog-content">
