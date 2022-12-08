@@ -37,10 +37,10 @@ const Footer = () => {
         </li>
 
         <li>
-          <a href="mailto:contact@homeverse.com" class="contact-link">
+          <a href="mailto:onaivio220@gmail.com" class="contact-link">
             <ion-icon name="mail-outline"></ion-icon>
 
-            <span>contact@homeverse.com</span>
+            <span>onaivio220@gmail.com</span>
           </a>
         </li>
 

@@ -63,8 +63,8 @@ const Navbar = () => {
                 </li>
 
                 <li>
-                  <a href="#" className="header-top-social-link">
-                    <ion-icon name="logo-pinterest"></ion-icon>
+                  <a href="https://www.linkedin.com/in/onaivi-okomayin-732b82241/" className="header-top-social-link">
+                    <ion-icon name="logo-linkedin"></ion-icon>
                   </a>
                 </li>
               </ul>
