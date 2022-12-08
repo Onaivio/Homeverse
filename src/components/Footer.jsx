@@ -183,7 +183,7 @@ const Footer = () => {
   <div className="container">
 
     <p className="copyright">
-      &copy; 2022 <a href="https://onaivi-portfolio.vercel.app/">onaivio.jsx</a>. All Rights Reserved
+      &copy; 2022 <a href="https://onaivi-portfolio.vercel.app/" target='blank' >onaivio.jsx</a>. All Rights Reserved
     </p>
 
   </div>
