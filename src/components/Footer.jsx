@@ -3,25 +3,25 @@ import React from 'react'
 const Footer = () => {
   return (
     <>
-     <footer class="footer">
+     <footer className="footer">
 
-<div class="footer-top">
-  <div class="container">
+<div className="footer-top">
+  <div className="container">
 
-    <div class="footer-brand">
+    <div className="footer-brand">
 
-      <a href="#" class="logo">
+      <a href="#" className="logo">
         <img src="./logo-light.png" alt="Homeverse logo" />
       </a>
 
-      <p class="section-text">
+      <p className="section-text">
         Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.
       </p>
 
-      <ul class="contact-list">
+      <ul className="contact-list">
 
         <li>
-          <a href="#" class="contact-link">
+          <a href="#" className="contact-link">
             <ion-icon name="location-outline"></ion-icon>
 
             <address>15/A, Nest Tower, Kano City</address>
@@ -29,7 +29,7 @@ const Footer = () => {
         </li>
 
         <li>
-          <a href="tel:+0123456789" class="contact-link">
+          <a href="tel:+0123456789" className="contact-link">
             <ion-icon name="call-outline"></ion-icon>
 
             <span>+234 81 4690 8277</span>
@@ -37,7 +37,7 @@ const Footer = () => {
         </li>
 
         <li>
-          <a href="mailto:onaivio220@gmail.com" class="contact-link">
+          <a href="mailto:onaivio220@gmail.com" className="contact-link">
             <ion-icon name="mail-outline"></ion-icon>
 
             <span>onaivio220@gmail.com</span>
@@ -46,28 +46,28 @@ const Footer = () => {
 
       </ul>
 
-      <ul class="social-list">
+      <ul className="social-list">
 
         <li>
-          <a href="https://www.facebook.com/profile.php?id=100071660391192" class="social-link">
+          <a href="https://www.facebook.com/profile.php?id=100071660391192" className="social-link">
             <ion-icon name="logo-facebook"></ion-icon>
           </a>
         </li>
 
         <li>
-          <a href="https://twitter.com/OkomayinOnaivi" class="social-link">
+          <a href="https://twitter.com/OkomayinOnaivi" className="social-link">
             <ion-icon name="logo-twitter"></ion-icon>
           </a>
         </li>
 
         <li>
-          <a href="https://www.linkedin.com/in/onaivi-okomayin-732b82241/" class="social-link">
+          <a href="https://www.linkedin.com/in/onaivi-okomayin-732b82241/" className="social-link">
             <ion-icon name="logo-linkedin"></ion-icon>
           </a>
         </li>
 
         <li>
-          <a href="https://github.com/onaivio" class="social-link">
+          <a href="https://github.com/onaivio" className="social-link">
             <ion-icon name="logo-github"></ion-icon>
           </a>
         </li>
@@ -76,100 +76,100 @@ const Footer = () => {
 
     </div>
 
-    <div class="footer-link-box">
+    <div className="footer-link-box">
 
-      <ul class="footer-list">
+      <ul className="footer-list">
 
         <li>
-          <p class="footer-list-title">Company</p>
+          <p className="footer-list-title">Company</p>
         </li>
 
         <li>
-          <a href="#" class="footer-link">About</a>
+          <a href="#" className="footer-link">About</a>
         </li>
 
         <li>
-          <a href="#" class="footer-link">Blog</a>
+          <a href="#" className="footer-link">Blog</a>
         </li>
 
         <li>
-          <a href="#" class="footer-link">All Products</a>
+          <a href="#" className="footer-link">All Products</a>
         </li>
 
         <li>
-          <a href="#" class="footer-link">Locations Map</a>
+          <a href="#" className="footer-link">Locations Map</a>
         </li>
 
         <li>
-          <a href="#" class="footer-link">FAQ</a>
+          <a href="#" className="footer-link">FAQ</a>
         </li>
 
         <li>
-          <a href="#" class="footer-link">Contact us</a>
-        </li>
-
-      </ul>
-
-      <ul class="footer-list">
-
-        <li>
-          <p class="footer-list-title">Services</p>
-        </li>
-
-        <li>
-          <a href="#" class="footer-link">Order tracking</a>
-        </li>
-
-        <li>
-          <a href="#" class="footer-link">Wish List</a>
-        </li>
-
-        <li>
-          <a href="#" class="footer-link">Login</a>
-        </li>
-
-        <li>
-          <a href="#" class="footer-link">My account</a>
-        </li>
-
-        <li>
-          <a href="#" class="footer-link">Terms & Conditions</a>
-        </li>
-
-        <li>
-          <a href="#" class="footer-link">Promotional Offers</a>
+          <a href="#" className="footer-link">Contact us</a>
         </li>
 
       </ul>
 
-      <ul class="footer-list">
+      <ul className="footer-list">
 
         <li>
-          <p class="footer-list-title">Customer Care</p>
+          <p className="footer-list-title">Services</p>
         </li>
 
         <li>
-          <a href="#" class="footer-link">Login</a>
+          <a href="#" className="footer-link">Order tracking</a>
         </li>
 
         <li>
-          <a href="#" class="footer-link">My account</a>
+          <a href="#" className="footer-link">Wish List</a>
         </li>
 
         <li>
-          <a href="#" class="footer-link">Wish List</a>
+          <a href="#" className="footer-link">Login</a>
         </li>
 
         <li>
-          <a href="#" class="footer-link">Order tracking</a>
+          <a href="#" className="footer-link">My account</a>
         </li>
 
         <li>
-          <a href="#" class="footer-link">FAQ</a>
+          <a href="#" className="footer-link">Terms & Conditions</a>
         </li>
 
         <li>
-          <a href="#" class="footer-link">Contact us</a>
+          <a href="#" className="footer-link">Promotional Offers</a>
+        </li>
+
+      </ul>
+
+      <ul className="footer-list">
+
+        <li>
+          <p className="footer-list-title">Customer Care</p>
+        </li>
+
+        <li>
+          <a href="#" className="footer-link">Login</a>
+        </li>
+
+        <li>
+          <a href="#" className="footer-link">My account</a>
+        </li>
+
+        <li>
+          <a href="#" className="footer-link">Wish List</a>
+        </li>
+
+        <li>
+          <a href="#" className="footer-link">Order tracking</a>
+        </li>
+
+        <li>
+          <a href="#" className="footer-link">FAQ</a>
+        </li>
+
+        <li>
+          <a href="#" className="footer-link">Contact us</a>
         </li>
 
       </ul>
@@ -179,10 +179,10 @@ const Footer = () => {
   </div>
 </div>
 
-<div class="footer-bottom">
-  <div class="container">
+<div className="footer-bottom">
+  <div className="container">
 
-    <p class="copyright">
+    <p className="copyright">
       &copy; 2022 <a href="https://onaivi-portfolio.vercel.app/">onaivio.jsx</a>. All Rights Reserved
     </p>
 
