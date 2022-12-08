@@ -11,7 +11,7 @@ const Footer = () => {
     <div class="footer-brand">
 
       <a href="#" class="logo">
-        <img src="./assets/images/logo-light.png" alt="Homeverse logo">
+        <img src="./logo-light.png" alt="Homeverse logo" />
       </a>
 
       <p class="section-text">
