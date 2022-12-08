@@ -24,7 +24,7 @@ const Footer = () => {
           <a href="#" class="contact-link">
             <ion-icon name="location-outline"></ion-icon>
 
-            <address></address>
+            <address>15/A, Nest Tower, Kano City</address>
           </a>
         </li>
 
